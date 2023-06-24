@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "bba2d4fa06bce3a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5af55c1079d3d5e8",
+        "type": "tabs",
+        "dimension": 68.12080536912751,
+        "children": [
+          {
+            "id": "13a9ff228184f156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Issues/OOD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92d4461aac2130f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Issues/option selection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4f548767bd934bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Issues/OOD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfb7cc2f7fe377fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Issues/OOD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "3e4e9e599dfa5807",
+        "type": "tabs",
+        "dimension": 31.879194630872483,
+        "children": [
+          {
+            "id": "78f9f8baff66f2f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Issues/OOD.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4063d06c89564bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "fca617b40aa75008",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70c648c1bb6bddd2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "553ad4a8ea840ec8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69c5728ebdb79de2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a8cb11855d7c883",
+    "type": "split",
+    "children": [
+      {
+        "id": "45d3fc6c64b56ac7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5cf88da0a7b03f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Issues/OOD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e345d446ce77ff4b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Issues/OOD.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "01bc3c8b7c36b27a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "85b186969d67f1e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Issues/OOD.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dfb7cc2f7fe377fc",
+  "lastOpenFiles": [
+    "Issues/option selection.md",
+    "Issues/OOD.md",
+    "Issues",
+    "TOD.md",
+    "New Text Document.txt",
+    "Granularity levels/item character.md",
+    "Utils/AnyTOD.md",
+    "TOD related definitions/system actions.md",
+    "Modules/DST.md",
+    "Granularity levels/TOD task.md",
+    "TOD related definitions",
+    "TOD related definitions/sub flow.md",
+    "TOD related definitions/main flow.md",
+    "TOD related definitions/dialogue schema.md",
+    "Utils/PDDL.md",
+    "Granularity levels",
+    "Granularity levels/TOD domain.md",
+    "Modules/policy manager.md",
+    "Modules/retrieval model.md",
+    "TOD related definitions/user actions.md",
+    "2023-06-21.md",
+    "TOD related definitions/slots.md",
+    "Utils/user inform non-defined.md",
+    "Utils/user request non-defined.md",
+    "TOD related definitions/intents.md",
+    "Abstract definition/dialogue flow.md",
+    "Abstract definition",
+    "TOD related definitions/params.md",
+    "Modules",
+    "Utils"
+  ]
+}

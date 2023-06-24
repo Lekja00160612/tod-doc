@@ -1,0 +1,2 @@
+- characterized by [[params]], [[user actions]], [[system actions ]]of the [[TOD domain]] itself.
+- each domain includes many [[TOD task]]s 

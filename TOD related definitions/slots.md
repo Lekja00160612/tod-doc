@@ -1,0 +1,3 @@
+- attribute to clearer the context
+- under [[AnyTOD]] description, slots are like parameters ([[params]]) in programming
+- previously, people usually bound [[slots]] to [[intents]] which means each intent uses many slots and each slot can only be used in 1 intent

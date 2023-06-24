@@ -1,0 +1,2 @@
+- each dialogue may have several [[sub flow]]s, usually to request and inform information
+- each [[sub flow]] spans only in a few turns. 

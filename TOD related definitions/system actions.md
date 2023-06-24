@@ -1,0 +1,2 @@
+- possible system actions
+- not always system can inform one slot to user (for example system is not capable of giving user their own `location`). [[system actions]], therefore, limit system ability and bound [[OOD]] actions.
