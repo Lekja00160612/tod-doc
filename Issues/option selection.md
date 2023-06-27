@@ -1,5 +1,5 @@
 ---
-tags: [" #issue/available_solution "]
+tags: [" #issue/available_solution ", " #issue/policy_manager "]
 ---
 
 ## Solution

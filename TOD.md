@@ -4,7 +4,7 @@
 ## Extensibility
 - [[AnyTOD]] proposed an programmable [[dialogue schema]] includes [[params]], [[user actions]], [[system actions]]. The idea is fairly distinguished as it includes new fields [[user actions]] and [[system actions]] which never mentioned in any previous research.
 - The new fields developed advanced method to further control [[dialogue flow]]. Defining possible actions allow the model to understand the context and act based on concrete examples. The idea was great but not perfectly flawless as the system did not predict next action.
-- We believe having similar format like [[AnyTOD]] could help to predict next actions, based on [[user actions]] and [[system actions]]. We proposed additional tags [[constraints]], [[dependencies]], [[target actions]], [[tags]].
+- We believe having similar format like [[AnyTOD]] could help to predict next actions, based on [[user actions]] and [[system actions]]. We proposed additional tags [[constraints]], [[dependencies]], [[target actions]], [[tags]] for the inputs and [[history]], [[next actions]] for outputs.
 ### Goal
 -  Our main goal is to define a `Domain Specific Language for TOD`, reasoned from 2 main points:
 	- If NLP is a programming interface, the interface would not be capable of trustfully transmitting the programmer intention. While C or Python as programming interfaces compress of rules which programmers via these rules can express their program logics. -> There must be an alternative interface exist in the middle that includes some rules to follow and flexibility of NLP.

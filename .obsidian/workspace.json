@@ -24,16 +24,24 @@
             "id": "92d4461aac2130f7",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "47590665b91f5bb9",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Issues/option selection.md",
+                "file": "Work logs/multidomain SGD exploration.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a4f548767bd934bf",
+            "id": "557a25d226874e7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,7 +53,7 @@
             }
           },
           {
-            "id": "dfb7cc2f7fe377fc",
+            "id": "3b02497daf8bfe0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -201,15 +209,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfb7cc2f7fe377fc",
+  "active": "557a25d226874e7e",
   "lastOpenFiles": [
     "Issues/option selection.md",
+    "Issues/TOD transition turn.md",
     "Issues/OOD.md",
-    "Issues",
+    "Work logs/multidomain SGD exploration.md",
     "TOD.md",
+    "Modules/policy manager.md",
+    "Utils/inform non-defined.md",
+    "Utils/request non-defined.md",
+    "Work logs",
+    "Utils/PDDL.md",
+    "Utils/AnyTOD.md",
+    "Issues",
     "New Text Document.txt",
     "Granularity levels/item character.md",
-    "Utils/AnyTOD.md",
     "TOD related definitions/system actions.md",
     "Modules/DST.md",
     "Granularity levels/TOD task.md",
@@ -217,16 +232,12 @@
     "TOD related definitions/sub flow.md",
     "TOD related definitions/main flow.md",
     "TOD related definitions/dialogue schema.md",
-    "Utils/PDDL.md",
     "Granularity levels",
     "Granularity levels/TOD domain.md",
-    "Modules/policy manager.md",
     "Modules/retrieval model.md",
     "TOD related definitions/user actions.md",
     "2023-06-21.md",
     "TOD related definitions/slots.md",
-    "Utils/user inform non-defined.md",
-    "Utils/user request non-defined.md",
     "TOD related definitions/intents.md",
     "Abstract definition/dialogue flow.md",
     "Abstract definition",

@@ -1,5 +1,5 @@
 - each item maps to one [[item character]]
 - Within [[item character]] may has item-specific [[params]], [[user actions]], [[system actions]]
 - Within every item, include new field:
-	- related_documents: Array[document_id], with [[user request non-defined]], each document will be retrieved and feed into [[retrieval model]]
+	- related_documents: Array[document_id], with [[request non-defined]], each document will be retrieved and feed into [[retrieval model]]
 - This help resolve [[OOD]] cases
